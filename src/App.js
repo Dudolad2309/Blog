@@ -75,7 +75,7 @@ function App() {
                             <Grid item md={6}>
                                 <div className={classes.mainFeaturesPostContent}>
                                     <Typography component="h1" variant="h3" color="inherit" gutterBottom>
-                                        Dims Developer Blog
+                                        Developer Blog
                                     </Typography>
                                     <Typography variant="h5" color="inherit" paragraph>
                                         Использование этого подхода в продакшене не рекомендуется
@@ -95,7 +95,7 @@ function App() {
                 <div>
                     <Container maxWidth="md">
                         <Typography variant="h2" align="center" color="textPrimary" gutterBottom>
-                            Dims Developer Blog
+                             Developer Blog
                         </Typography>
                         <Typography variant="h5" align="center" color="textSecondary" paragraph>
                             Использование этого подхода в продакшене не рекомендуется

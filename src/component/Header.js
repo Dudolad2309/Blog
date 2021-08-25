@@ -43,7 +43,7 @@ export const Header = ()=>{
                         edge="start" color="inherit" aria-label="menu">
                 <MenuIcon/>
             </IconButton>
-            <Typography className={classes.title} variant="h5">Dims Developer Blog</Typography>
+            <Typography className={classes.title} variant="h5"> Developer Blog</Typography>
             <Box mr={3}>
                 <Button color="inherit" variant="outlined" onClick={handleClickOpen}>Log in</Button>
 
